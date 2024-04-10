@@ -1,0 +1,210 @@
+body , html {
+    width: 100%;
+    height: 100%;
+    background-color: blanchedalmond;
+}
+
+#main{
+    width: 100%;
+    height: 100%;
+
+}
+
+#videomain {
+    width: 99%;
+    object-fit: cover;
+    height: 400px ;
+    position: absolute;
+    top: 20%;
+}
+
+
+
+#sitemain{
+    position: absolute;
+    top: 3%;
+    left: 4%;
+  
+}
+#navpart1{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    
+}
+#navpart2{
+    display: flex;
+    position: absolute;
+    top: 4%;
+    left: 38%;
+    gap: 30px;
+    
+}
+h5{
+    color: brown;
+}
+#navpart3{
+    position: absolute;
+    top: 7%;
+    left: 86%;
+    gap: 30%;
+    
+    
+}
+i{
+    margin: 12px;
+}
+#mainbottom {
+    position: absolute;
+    top: 90%;
+    left: 44%;
+}
+#main2{
+    width: 100%;
+    height: 100%;
+}
+#navparta p {
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+
+}
+#navparta p:hover{
+    color: crimson;
+}
+#btn1{
+    position: absolute;
+    left: 48%;
+    top: 130%;
+    background-color: antiquewhite;
+    border: 1px rgb(26, 24, 24);
+}
+#btn1:hover{
+    background-color: rgb(223, 154, 167);
+}
+#btn2{
+    position: absolute;
+    left: 55%;
+    top: 130%;
+    background-color: blanchedalmond;
+}
+
+#btn2:hover{
+    background-color: rgb(219, 64, 95);
+}
+#navpartc {
+    font-size: 80px;
+    position: absolute;
+    top: 250%;
+    left: 2%;
+    color: crimson;
+}
+#navpartc:hover{
+    color: rgb(32, 32, 32);
+}
+#img1{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 23px;
+    position: absolute;
+    top: 139%;
+    left: 5%;
+}
+#img2{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 23px;
+    position: absolute;
+    top: 139%;
+    left: 23%;
+}
+#img3{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 23px;
+    position: absolute;
+    top: 139%;
+    left: 41%;
+}
+
+#img4{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 23px;
+    position: absolute;
+    top: 139%;
+    left: 59%;
+}
+
+#img5{
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 23px;
+    position: absolute;
+    top: 139%;
+    left: 77%;
+}
+#img1:hover{
+    width: 205px;
+    height: 405px;
+    transform: scale(1.1);
+}
+#img2:hover{
+    width: 205px;
+    height: 405px;
+transform: scale(1.1);
+}
+#img3:hover{
+    width: 205px;
+    height: 405px;
+    transform: scale(1.1);
+}
+#img4:hover{
+    width: 205px;
+    height: 405px;
+    transform: scale(1.1);
+}
+#img5:hover{
+    width: 205px;
+    height: 405px;
+    transform: scale(1.1);
+}
+#discover{
+    position: absolute;
+    top: 220%;
+    left: 45%;
+}
+#discover:hover{
+    position: absolute;
+    top: 220%;
+    left: 45%;
+    transform: scale(1.1);
+    
+}
+#us{
+    position: absolute;
+    top: 240%;
+    left: 1%;
+}
+#video1{
+    width: 60%;
+    height: 90%;
+    object-fit: cover;
+    position: absolute;
+    top: 270%;
+    left: 2%;
+    border-radius: 18px;
+}
+#rightimg{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    top : 290% ;
+    left : 70%
+}
